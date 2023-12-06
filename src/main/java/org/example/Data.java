@@ -1,0 +1,3 @@
+class Dats{
+  String value = "";
+}
